@@ -1,2 +1,0 @@
-# PFGANG-WEBJAM
-ola :wave:
